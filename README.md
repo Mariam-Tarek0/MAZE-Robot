@@ -31,7 +31,3 @@ The robot can move in all directions, allowing the user to guide it through the 
 
 -  **Arduino IDE.**
 -  **Any additional libraries or dependencies specified in the code.**
-
-## Code
-
-You can find the code used in the project [here]([https://github.com/Mariam-Tarek0/MAZE-Robot/blob/main/MAZE-Robot.ino])
