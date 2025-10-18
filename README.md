@@ -34,4 +34,4 @@ The robot can move in all directions, allowing the user to guide it through the 
 
 ## Code
 
-You can find the code used in the project [here]([https://github.com/ayshashaban/MAZE-Robot/blob/main/code.pm](https://github.com/Mariam-Tarek0/MAZE-Robot/blob/main/MAZE-Robot.ino))
+You can find the code used in the project [here]([https://github.com/Mariam-Tarek0/MAZE-Robot/blob/main/MAZE-Robot.ino])
